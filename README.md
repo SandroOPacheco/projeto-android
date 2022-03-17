@@ -1,2 +1,2 @@
 # projeto-android
- Site criado durante o cursoemvideo
+ Site criado durante o CursoemVideo
